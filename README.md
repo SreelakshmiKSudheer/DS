@@ -47,5 +47,22 @@ This course focuses on providing hands-on experience in implementing various dat
    Palindrome using Stack.c
  Cycle 3
    Infix to Postfix Single Digit.c
-   
+   Queue
+   Circular Queue
+   Double Ended Queue
+   Priority Queue
+ Cycle 4
+   Polynomial Addition (Arrays)
+   Sparse Matrix
+ Cycle 5
+   Singly Linked List(SLL)
+   Stack using Doubly Linked List(DLL)
+   Queue using Doubly Linked List(DLL)
+   Palindrome Checking using Singly Linked List(SLL)
+   Palindrome Checking using Doubly Linked List(DLL)
+   Reverse Queue Using Stack
+   Polynomial Addition using Singly Linked List(SLL)
+   Polynomial Multiplication using Singly Linked List(SLL)
+   Two Variable Polynomial Addition using Singly Linked List(SLL)
+   Student Details in Linked List
 ```
