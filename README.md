@@ -34,35 +34,51 @@ This course focuses on providing hands-on experience in implementing various dat
 
 ## Repository Structure
  ```
- Cycle 1 
-   Merge.c
-   Largest Substring.c
-   Smallest.c
-   String Functions.c
-   Bubble Sort.c|
- Cycle 2
-   Linear Search.c
-   Binary Search.c
-   Stack.c
-   Palindrome using Stack.c
- Cycle 3
-   Infix to Postfix Single Digit.c
-   Queue
-   Circular Queue
-   Double Ended Queue
-   Priority Queue
- Cycle 4
-   Polynomial Addition (Arrays)
-   Sparse Matrix
- Cycle 5
-   Singly Linked List(SLL)
-   Stack using Doubly Linked List(DLL)
-   Queue using Doubly Linked List(DLL)
-   Palindrome Checking using Singly Linked List(SLL)
-   Palindrome Checking using Doubly Linked List(DLL)
-   Reverse Queue Using Stack
-   Polynomial Addition using Singly Linked List(SLL)
-   Polynomial Multiplication using Singly Linked List(SLL)
-   Two Variable Polynomial Addition using Singly Linked List(SLL)
-   Student Details in Linked List
+ DS LAB
+    Cycle 1 
+      Merge
+      Largest Substring
+      Smallest
+      String Functions
+      Bubble Sort
+    Cycle 2
+      Linear Search
+      Binary Search
+      Stack
+      Palindrome using Stack
+    Cycle 3
+      Infix to Postfix Single Digit
+      Queue
+      Circular Queue
+      Double Ended Queue
+      Priority Queue
+    Cycle 4
+      Polynomial Addition (Arrays)
+      Sparse Matrix
+    Cycle 5
+      Singly Linked List(SLL)
+      Stack using Doubly Linked List(DLL)
+      Queue using Doubly Linked List(DLL)
+      Palindrome Checking using Singly Linked List(SLL)
+      Palindrome Checking using Doubly Linked List(DLL)
+      Reverse Queue Using Stack
+      Polynomial Addition using Singly Linked List(SLL)
+      Polynomial Multiplication using Singly Linked List(SLL)
+      Two Variable Polynomial Addition using Singly Linked List(SLL)
+      Student Details in Linked List
+ Data Structures
+    Stack (Cycle 3)
+    Queue (Cycle 4)
+    Circular Queue (Cycle 4)
+    Double Ended Queue (Cycle 4)
+    Priority Queue (Cycle 4)
+    Singly Linked List
+    Doubly Linked List
+    Circular Linked List
+ Sorting Algorithms
+    Bubble Sort
+    Selection Sort
+    Insertion Sort
+    Merge Sort
+    Quick Sort
 ```
