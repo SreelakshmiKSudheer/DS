@@ -1,0 +1,6 @@
+Bubble
+Selection
+Insertion
+Merge
+Quick
+Heap
